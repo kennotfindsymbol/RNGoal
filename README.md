@@ -22,7 +22,7 @@ This app is built with [JavaScript](https://developer.mozilla.org/en-US/docs/Web
 
 ### Clone this repo
 ```bash
-git clone https://github.com/kennotfindsymbol/RNGoal.git
+git clone https://github.com/kennotfindsymbol/RNGoal
 cd RNGoal
 ```
 ### Install all dependencies
