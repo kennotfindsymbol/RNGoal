@@ -3,6 +3,8 @@
 </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev)
+<img src="./assets/expo-light.png" width="150">
+<img src="./assets/expo-dark.png" width="150">
 
 ![Platform - iOS](https://img.shields.io/badge/platform-iOS-blue.svg)
 ![Platform - Andriod](https://img.shields.io/badge/platform-Andriod-red.svg)
