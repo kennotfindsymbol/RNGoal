@@ -9,7 +9,7 @@
 ![Platform - iOS](https://img.shields.io/badge/platform-iOS-blue.svg)
 ![Platform - Andriod](https://img.shields.io/badge/platform-Andriod-red.svg)
 
-Expo logos' usage are following their [Brand guidelines](https://expo.dev/brand).
+Expo logos usage are following their [Brand guidelines](https://expo.dev/brand):
 
 > You're encouraged to:
 >
