@@ -10,10 +10,10 @@
 ![Platform - Andriod](https://img.shields.io/badge/platform-Andriod-red.svg)
 
 Expo logos' usage are following their [Brand guidelines](https://expo.dev/brand).
-```
-You're encouraged to:
-- Use the permitted Expo name and logos less prominently than your own name and logo to describe that you are using an Expo product. For example: "This app is made using Expo and EAS".
-```
+
+> You're encouraged to:
+>
+> - Use the permitted Expo name and logos less prominently than your own name and logo to describe that you are using an Expo product. For example: "This app is made using Expo and EAS".
 
 ## About
 This app is built with [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [React Native](https://reactnative.dev), an open-source UI framework by Meta, and [Expo](https://expo.dev), a production-grade React Native Framework.
