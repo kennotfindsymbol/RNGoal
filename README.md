@@ -38,13 +38,13 @@ npm run andriod
 ![addgoal](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZ4NDI3bnFleHV6bjJqOHEwc3FlNWhmemZ3emhxMGt6dXNvemo2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D14xWNT5nlTsukYqud/giphy.webp)
 
 ### Handle input with whitespaces
-![trim]()
+![trim](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRkbXA4OTNjZGxjeDQzdWdhdmJsbDgxZzE0OWNwdDBuNTZwbHA1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PA5LwYW0T6jY9Mm3cb/giphy.gif)
 
 ### Cancel saves input
-![cancel]()
+![cancel](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3UzMHNnd2llNXpmZG5uc2Fjc2J0bHN0cXU1NWg4YjgzbXQzazUzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/upcCAaT482BsV8Tw7p/giphy.gif)
 
-### Delete existing goals
-![delete]()
+### Press to delete existing goals
+![delete](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ3cnZzbHpseTgycjhrbXZ0YjVrM29lOHZzN3JiYWs4a3B5M3gzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7lqso9wAcBw4dIEWLh/giphy.gif)
 
 ### Scroll through goals
-![scroll]()
+![scroll](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWE5dWV6MTRsdDhmaDJrazVtdzAxaWhpdzVzbW9uNXRuemJ5YjdtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1xW0xxlZVx5aaRwtTK/giphy.gif)
