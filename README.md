@@ -35,7 +35,7 @@ npm run andriod
 ## Demo
 
 ### Add a new goal
-![addgoal](https://giphy.com/gifs/D14xWNT5nlTsukYqud)
+![addgoal](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZ4NDI3bnFleHV6bjJqOHEwc3FlNWhmemZ3emhxMGt6dXNvemo2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D14xWNT5nlTsukYqud/giphy.webp)
 
 ### Handle input with whitespaces
 ![trim]()
