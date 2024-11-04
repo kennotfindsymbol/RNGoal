@@ -7,7 +7,7 @@
 <img src="./assets/expo-dark.png" width="150">
 
 ![Platform - iOS](https://img.shields.io/badge/platform-iOS-blue.svg)
-![Platform - Andriod](https://img.shields.io/badge/platform-Andriod-red.svg)
+![Platform - Android](https://img.shields.io/badge/platform-Android-red.svg)
 
 Expo logos usage are following their [Brand guidelines](https://expo.dev/brand):
 
@@ -35,9 +35,9 @@ npm install
 npm run ios
 ```
 
-### Run Andriod
+### Run Android
 ```bash
-npm run andriod
+npm run android
 ```
 
 ## Demo
