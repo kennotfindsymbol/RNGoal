@@ -2,7 +2,9 @@
   RNGoal
 </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev)
+![Banner](./assets/banner.png)
+
+![My Skills](https://skillicons.dev/icons?i=js,react)
 <img src="./assets/expo-light.png" width="150">
 <img src="./assets/expo-dark.png" width="150">
 
